@@ -1,0 +1,25 @@
+{
+  "name": "alxs-g",
+  "version": "1.0.0",
+  "description": "proyect chill v1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A1eexs/alxs-g.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/A1eexs/alxs-g/issues"
+  },
+  "homepage": "https://github.com/A1eexs/alxs-g#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
